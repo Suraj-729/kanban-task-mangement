@@ -51,10 +51,12 @@ Bonus:
 #### Desktop
 ![Screenshot](public/ss-1.jpg)
 
-#### Responsive
-![Screenshot](public/ss-1.jpg)
+![Screenshot](public/ss-4.jpg)
 
-![Screenshot](public/ss-1.jpg)
+#### Responsive
+![Screenshot](public/ss-2.jpg)
+
+![Screenshot](public/ss-3.jpg)
 ### Links
 
 - Live Site URL: [link](https://kanban-task-mangement-ruby.vercel.app/)
